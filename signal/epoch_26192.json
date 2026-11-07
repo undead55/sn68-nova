@@ -1,0 +1,12 @@
+{
+ "epoch": 26192,
+ "start_block": 9455312,
+ "block_hash": "0xcce129141eff65669070466b0e36543f908b81d088b7c2cf833e0eeda13e0a62",
+ "reaction": "rxn:43",
+ "allowed_v": "IGHV3-66",
+ "allowed_cdr3_length": 5,
+ "elapsed": 6,
+ "cutoff": 351,
+ "mol_deadline_elapsed": 280,
+ "written_at": "2026-11-07T16:05:13Z"
+}
