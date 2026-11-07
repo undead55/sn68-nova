@@ -5,8 +5,8 @@
  "reaction": "rxn:14",
  "allowed_v": "IGHV3-74",
  "allowed_cdr3_length": 6,
- "elapsed": 6,
+ "elapsed": 57,
  "cutoff": 351,
  "mol_deadline_elapsed": 280,
- "written_at": "2026-11-07T18:29:42Z"
+ "written_at": "2026-11-07T18:39:57Z"
 }
