@@ -1,12 +1,12 @@
 {
- "epoch": 26209,
- "start_block": 9461449,
- "block_hash": "0x1e92eab2129b956a136ee6f9f9f95b2705724616c804d5d73d4449c73c67c23e",
- "reaction": "rxn:31",
- "allowed_v": "IGHV3-74",
- "allowed_cdr3_length": 17,
+ "epoch": 26210,
+ "start_block": 9461810,
+ "block_hash": "0x0d4f62af50639f71c41abd2a9df2809bb222f7046c2ae5925ed680d624c71c43",
+ "reaction": "rxn:16",
+ "allowed_v": "IGHV3-23",
+ "allowed_cdr3_length": 12,
  "elapsed": 6,
  "cutoff": 351,
  "mol_deadline_elapsed": 280,
- "written_at": "2026-11-08T12:32:44Z"
+ "written_at": "2026-11-08T13:44:56Z"
 }
